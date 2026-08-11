@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e96fe70d-1068-4a33-a670-cb20a5004265"
+      }
+    },
+    "owner": "ritomg"
   }
 }
